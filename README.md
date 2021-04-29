@@ -17,6 +17,7 @@ Marriage is on the decline in the United States. But is that true for everyone a
 
 ### Geographic Differences
 
+![State marriage](State Marriage Rate.png){:height="100%" width="100%"}
 If we take a look at how the marriage rate (number of marriages per 1000 inhabitants in each state) has been declining across the United States from 1990 to 2019, it’s apparent that the decline is present country wide. Even states like Nevada, which is largely popular for its Vegas weddings, has seen a large decline over the past couple of years. A look into the religiosity of the different states also shows that the decline in marriage rates is happening regardless of the religiosity of the state. 
 
 ### The Education, Wealth, and Race Gap
