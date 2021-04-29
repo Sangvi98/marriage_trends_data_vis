@@ -62,6 +62,8 @@ The state of Kerala is known to be one of the most progressive states in India. 
 It is common to think about marriage and having children as important steps towards the idea of 
 “building a family”. However, there have been trends in some countries that are dismantling this idea. Here, we take a look at how marriage and childbearing have changed in France over the past couple of decades. 
 
+![Birth Cohort Marriage](Womenmarriagerate.png){:height="100%" width="100%"}
+[Data Source](https://www.insee.fr/en/statistiques/5015913?sommaire=5015923&q=Nuptiality)
 Each square represents 1 percent of the women population. Blue represents married and gray represents unmarried. 
 
 The chart above shows how the percentage of women ever being married has changed over time. At first, shifts show the women are choosing to get married later and later. However, for more recent birth cohorts, an increasing proportion are choosing to not get married at all. 
@@ -71,6 +73,7 @@ The chart above shows how the percentage of women ever being married has changed
 Despite French women being more reluctant to get married, they still on average have the highest fertility rate in the EU. They are also fair middle of the pack when it comes to the age at which they have children. French women are choosing not to get married but they’re still having children, so what’s going on?
 
 ### The increasing popularity of having children out of wedlock 
-
+![Birth out of Marriage](BirthOutofMarriage.png){:height="100%" width="100%"}
+[Data Source](https://www.insee.fr/fr/statistiques/2381394#tableau-figure1)
 While the number of births in France has remained relatively stable in France over the past couple of decades, what has changed drastically is the percentage of births that happen out of wedlock. This figure has grown from 37% in 1994 to 62% in 2020. This highlights one of the biggest shifts in social attitudes in France towards marriage - that it isn’t a necessary first step for parenthood. This trend highlights just how quickly changes in social patterns can emerge. 
 
