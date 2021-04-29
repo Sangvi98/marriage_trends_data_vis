@@ -59,7 +59,7 @@ Another potential explanation turns to the education gap between black men and w
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/IndiaChildMarriage/Sheet1?:embed=true&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe> 
 
 Source: Sonalde Desai, Department of Sociology, University of Maryland, 2112 Art-Sociology Building, College Park, MD 20742; and National Council for Applied Economic Research, New Delhi 110 002, India. E-mail: ude.dmu.ycos@iaseds; gro.reacn@iaseds \
-Source: http://mospi.nic.in/sites/default/files/reports_and_publication/statistical_publication/social_statistics/Chapter_3.pdf
+[Data Source](http://mospi.nic.in/sites/default/files/reports_and_publication/statistical_publication/social_statistics/Chapter_3.pdf)\
 
 When some people think of marriage in India, two of the first terms that might pop into their heads are “arranged marriages” and “child marriages”. While India  still possesses some of the world’s highest rates of these types of marriages, the Indian state has a strong influence on the social and cultural norms surrounding marriage. The above plots show how the proportion of people married before age 16 and the mean age of marriage are correlated with various social factors. We focused on four social factors: mean score on immobility index, proportion of women in wage employment, proportion of homes where men and women eat separately, and literacy rate. The immobility index measures how difficult it is to move up or down socioeconomic classes in a given society. When looking at the graphs we can see some definite trends in the data. 
 
@@ -73,17 +73,21 @@ It is common to think about marriage and having children as important steps towa
 “building a family”. However, there have been trends in some countries that are dismantling this idea. Here, we take a look at how marriage and childbearing have changed in France over the past couple of decades. 
 
 ![Birth Cohort Marriage](Womenmarriagerate.png){:height="100%" width="100%"}
-[Data Source](https://www.insee.fr/en/statistiques/5015913?sommaire=5015923&q=Nuptiality)
+[Data Source](https://www.insee.fr/en/statistiques/5015913?sommaire=5015923&q=Nuptiality)\
 Each square represents 1 percent of the women population. Blue represents married and gray represents unmarried. 
-
+<br/>
 The chart above shows how the percentage of women ever being married has changed over time. At first, shifts show that women are choosing to get married later and later. However, for more recent birth cohorts, an increasing proportion are choosing to not get married at all. 
 
 ### The baby-making champion of Europe 
-
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/fertilityrates_16197003498590/Sheet1?:embed=true&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/fertilityrates_16197003498590/Sheet2?:embed=true&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>
+[Data Source](https://www.insee.fr/fr/statistiques/3303349?sommaire=3353488#titre-bloc-3)\
+<br/>
 Despite French women being more reluctant to get married, they still on average have the highest fertility rate in the EU. They are also fair middle of the pack when it comes to the age at which they have children. French women are choosing not to get married but they’re still having children, so what’s going on?
 
 ### The increasing popularity of having children out of wedlock 
 ![Birth out of Marriage](BirthOutofMarriage.png){:height="100%" width="100%"}
-[Data Source](https://www.insee.fr/fr/statistiques/2381394#tableau-figure1)
+[Data Source](https://www.insee.fr/fr/statistiques/2381394#tableau-figure1)\
+<br/>
 While the number of births in France has remained relatively stable in France over the past couple of decades, what has changed drastically is the percentage of births that happen out of wedlock. This figure has grown from 37% in 1994 to 62% in 2020. This highlights one of the biggest shifts in social attitudes in France towards marriage - that it isn’t a necessary first step for parenthood. This trend highlights just how quickly changes in social patterns can emerge. 
 
