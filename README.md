@@ -12,38 +12,43 @@ Source: Esteban Ortiz-Ospina and Max Roser (2020) - "Marriages and Divorces". Pu
 
 ## United States - Marriage Isn’t the Same for Everyone
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4850739/ 
 Marriage is on the decline in the United States. But is that true for everyone and everywhere? 
 
 ### Geographic Differences
 
 ![State marriage](State Marriage Rate.png){:height="100%" width="100%"}
-[Data Source](https://www.cdc.gov/nchs/nvss/marriage-divorce.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fnchs%2Fmardiv.htm)
+[Data Source](https://www.cdc.gov/nchs/nvss/marriage-divorce.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fnchs%2Fmardiv.htm)\
 If we take a look at how the marriage rate (number of marriages per 1000 inhabitants in each state) has been declining across the United States from 1990 to 2019, it’s apparent that the decline is present country wide. Even states like Nevada, which is largely popular for its Vegas weddings, has seen a large decline over the past couple of years. A look into the religiosity of the different states also shows that the decline in marriage rates is happening regardless of the religiosity of the state. 
 
 ### The Education, Wealth, and Race Gap
 
 ![Education Differences](Educational Level.png){:height="100%" width="100%"}
-[Data Source](https://github.com/fivethirtyeight/data/tree/master/marriage)
+[Data Source](https://github.com/fivethirtyeight/data/tree/master/marriage)\
 More startling differences in marriage rates (% of people ever married) start to emerge when we begin to explore the impact different demographic factors have. While a greater percentage of young people across all education levels are choosing not to get married, those with only a high school education have seen the largest decline in marriage rate. For many other education levels, we see that this drop in marriage rate seems to level out by the next age group but for those with only a high school and some college education, this drop persists onwards. While those with higher education levels might be choosing to get married later in life, Americans with lower levels of education might forgo marriage entirely. 
 
 ![Wealth](Wealth.png){:height="100%" width="100%"}
-[Data Source](https://github.com/fivethirtyeight/data/tree/master/marriage)
+[Data Source](https://github.com/fivethirtyeight/data/tree/master/marriage)\
 America’s affluent are still choosing to get married at rates much higher than America’s poorest and it’s difficult to pinpoint exactly why that is. Increased access to contraception and increased engagement in the labor force helped empower women to see marriage as less of necessity for survival. However, the factors should have pushed middle and upper classes away from marriage, so why hasn’t it?
 
 Economist Robert Pollack suggests that marriage can serve as a means of commitment that can enable an in investment children. This commitment between a couple allows for either parent to support the other as they work through difficulties of balancing their career and family life. Thus, marriage forms an essential component for successful middle and upper-class parenthood. 
 
 Another theory put forth by sociologist Andrew Cherlin is that marriage can still serve as a social marker of achievement for your personal life. Thus, well off, college educated individuals might be more likely to feel as if they are in a successful position in life to get married. 
 
+[Information Source](https://washingtonmonthly.com/magazine/maraprmay-2016/why-is-marriage-thriving-among-and-only-among-the-affluent/)\
+
 ![Race](Race.png){:height="100%" width="100%"}
-[Data Source](https://github.com/fivethirtyeight/data/tree/master/marriage)
+[Data Source](https://github.com/fivethirtyeight/data/tree/master/marriage)\
 Another demographic factor that has a major impact on marriage rate is race. Here the group that has seen the largest decline in marriage rate is young, black Americans. Social scientists haven’t been able to fully account for the differences in marriage patterns across the different races that are seen here but there have been many attempts. One hypothesis for the dips in marriage rates for black Americans in the 70s and 80s was put forth by sociologists William Julius Wilson and Kathryn Neckerman. They proposed that black men were hit particularly hard by the unemployment brought on by a decline in unskilled manufacturing jobs during this time period. This factor combined with a higher incarceration rate and higher death rates among black men in comparison white men left a smaller and smaller pool of black men for black women to marry which may have spurred the apparent race gap in marriage rates. 
 
 Another potential explanation turns to the education gap between black men and women. Women often prefer partners with similar levels of educational background. There is already an education gap between women and men in the US today, with young women on average being more educated than young men. This gap widens more for young black women and men which could potentially decrease the pool of marriable men for black women. Another factor that could also be in play is that black men tend to marry outside of their race at two times the rate that black women do, further decreasing the size of the pool.
 
+[Information Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4850739/)\
+
 ### Explore the Factors
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/Alldifferences/Sheet1?:embed=true&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe> 
 [Data Source](https://github.com/fivethirtyeight/data/tree/master/marriage)
+
+<br/><br/>
 
 ## India - A Nation of Many Cultures
 
