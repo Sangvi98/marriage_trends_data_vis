@@ -34,6 +34,10 @@ Another demographic factor that has a major impact on marriage rate is race. Her
 
 Another potential explanation turns to the education gap between black men and women. Women often prefer partners with similar levels of educational background. There is already an education gap between women and men in the US today, with young women on average being more educated than young men. This gap widens more for young black women and men which could potentially decrease the pool of marriable men for black women. Another factor that could also be in play is that black men tend to marry outside of their race at two times the rate that black women do, further decreasing the size of the pool.
 
+### Explore the Factors
+<iframe seamless frameborder="0" src="https://public.tableau.com/profile/sanghavi.gaddam#!/vizhome/Alldifferences/Sheet1?:embed=true&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe> 
+
+
 ## India - A Nation of Many Cultures
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/IndiaChildMarriage/Sheet1?:embed=true&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe> 
