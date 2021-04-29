@@ -71,7 +71,7 @@ It is common to think about marriage and having children as important steps towa
 [Data Source](https://www.insee.fr/en/statistiques/5015913?sommaire=5015923&q=Nuptiality)
 Each square represents 1 percent of the women population. Blue represents married and gray represents unmarried. 
 
-The chart above shows how the percentage of women ever being married has changed over time. At first, shifts show the women are choosing to get married later and later. However, for more recent birth cohorts, an increasing proportion are choosing to not get married at all. 
+The chart above shows how the percentage of women ever being married has changed over time. At first, shifts show that women are choosing to get married later and later. However, for more recent birth cohorts, an increasing proportion are choosing to not get married at all. 
 
 ### The baby-making champion of Europe 
 
