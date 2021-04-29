@@ -37,10 +37,7 @@ Another potential explanation turns to the education gap between black men and w
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/IndiaChildMarriage/Sheet1?:embed=true&:showVizHome=no" width = '1200' height = '720' scrolling='yes' ></iframe> 
 
-
-Source: Sonalde Desai, Department of Sociology, University of Maryland, 2112 Art-Sociology Building, College Park, MD 20742; and National Council for Applied Economic Research, New Delhi 110 002, India. E-mail: ude.dmu.ycos@iaseds; gro.reacn@iaseds
-
-
+Source: Sonalde Desai, Department of Sociology, University of Maryland, 2112 Art-Sociology Building, College Park, MD 20742; and National Council for Applied Economic Research, New Delhi 110 002, India. E-mail: ude.dmu.ycos@iaseds; gro.reacn@iaseds \
 Source: http://mospi.nic.in/sites/default/files/reports_and_publication/statistical_publication/social_statistics/Chapter_3.pdf
 
 When some people think of marriage in India, two of the first terms that might pop into their heads are “arranged marriages” and “child marriages”. While India is still among the world’s leaders in these types of marriages, the Indian state has a strong influence on the social and cultural norms surrounding marriage. The above plots show how the proportion of people married before age 16 and the mean age of marriage are correlated with various social factors. We focused on four social factors: mean score on immobility index, proportion of women in wage employment, proportion of homes where men and women eat separately, and literacy rate. The immobility index measures how difficult it is to move up or down socioeconomic classes in a given society. When looking at the graphs we can see some definite trends in the data. 
